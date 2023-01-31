@@ -1,0 +1,78 @@
+ 
+
+ 
+
+
+
+#container1{
+    background-color: rgb(105, 255, 230);
+    display:grid;
+grid-template-columns: auto, auto, auto, auto;
+text-align: center; 
+border-style: ridge;
+border-color: black;
+      }
+
+
+#container2{
+background-color:  rgb(105, 255, 230);
+display:grid;
+grid-template-columns: auto,auto, auto;
+text-align:center;
+border-style: ridge;
+border-color: black;
+}
+
+#container3{
+background-color:  rgb(105, 255, 230);
+display:grid;
+grid-template-columns:auto,auto, auto;
+text-align:center;
+border-style:ridge;
+border-color:black;
+
+
+
+
+}
+
+.item{
+align-items: center;
+background-color:rgb(226, 43, 186);
+border-style: 10px 
+
+
+}
+
+.font
+
+{
+ font-family:"Rajdhani"; 
+    
+}
+
+
+.item2{
+    background-color:rgb(226, 43, 43);
+    border-style:  10px, dotted; 
+    border-color: black;
+     }
+
+
+     .item3{
+        background-color:rgb(226, 223, 43);
+        border-style: 10px; 
+        border-color: black;
+         }
+
+         .item3{
+            background-color:rgb(73, 226, 43);
+            border-style: 10px ;
+            border-color: black;
+             } 
+
+             .item4{
+                background-color:rgb(97, 122, 233);
+                border-style:  10px, dotted;
+                border-color: black;
+                 }   
